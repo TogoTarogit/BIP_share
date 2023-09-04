@@ -120,6 +120,4 @@ pip install -r requirements.txt
 - 相談内容の短縮表記
 - 回答者の識別
 
-# commit analyize
 
-![スクリーンショット 2023-09-04 190105](https://github.com/TogoTarogit/BIP_share/assets/62383281/ba31d535-d3d1-479a-90ca-52cbcdd2e6a9)
