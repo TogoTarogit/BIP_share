@@ -90,33 +90,36 @@ pip install -r requirements.txt
 
 ## Contribution 
 
-#TOGO (me)(https://github.com/TogoTarogit)
+# TOGO (me)(https://github.com/TogoTarogit)
 - ChatGPTと回答の連携や保育士として質問に寄り添うよう調整
 - ユーザー登録機能
 - Git の管理を担当
 
-#礒崎　(https://github.com/yiso0919)
+# 礒崎　(https://github.com/yiso0919)
 - 画像ファイルを添付していない時のバグ修正
 - 回答一覧のデザイン
 - その他バグ調整、デザインの改良
   
-#片山　(https://github.com/RikutoKatayama)
+# 片山　(https://github.com/RikutoKatayama)
 - プロジェクトのマネジメント（役割の振り分け・管理，機能の取捨選択？など）
 - スプリントバックログの詳細決定
 - DB属性の設定
 
-#辻村 (https://github.com/Umadachi564)
+# 辻村 (https://github.com/Umadachi564)
 - ChatGPT APIの導入
 - 各画面のプロトタイプデザインの実装
 - Bootstrap5の導入支援
 
-#若崎　(https://github.com/keiwakasaki)
+# 若崎　(https://github.com/keiwakasaki)
 - デザインを考えて共有する
 - Flaskでバックエンドの大枠作成
 - 検索機能や画像投稿機能の実装
 
-#根津	(https://github.com/Nezu4280)
+# 根津	(https://github.com/Nezu4280)
 - 画面遷移の機能の実装およびデザインの改良
 - 相談内容の短縮表記
 - 回答者の識別
 
+## commit analyize
+
+![スクリーンショット 2023-09-04 190105](https://github.com/TogoTarogit/BIP_share/assets/62383281/ba31d535-d3d1-479a-90ca-52cbcdd2e6a9)
