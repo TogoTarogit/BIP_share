@@ -91,7 +91,7 @@ pip install -r requirements.txt
 # Contribution 
 
 ## TOGO (me) (https://github.com/TogoTarogit)
-- ChatGPTと回答の連携や保育士として質問に寄り添うよう調整
+- ChatGPTが投稿の際に返信するようにする機能や保育士として質問に寄り添うよう調整
 - ユーザー登録機能
 - Git の管理を担当
 
